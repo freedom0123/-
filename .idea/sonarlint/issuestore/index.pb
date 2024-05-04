@@ -20,3 +20,7 @@ G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\86
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 �
 Q.idea/sonarlint/securityhotspotstore/d/6/d68fac4dc7336c760ec4897bb980f139ce681889,0\1\01c029accfb305105372a585c0a7cc18adc9238f
+k
+;book-1/src/main/java/设计一个有getMin功能的栈.java,9\3\93e3a9d80e0ca1cd9ba45518f129560a536851c0
+@
+book-1/README.md,7\6\7655b0125aaa3d2378024b3369ebe55292c54b25
